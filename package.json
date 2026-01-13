@@ -11,11 +11,11 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@atlaskit/button": "^18.0.0",
-    "@atlaskit/form": "^9.0.0",
-    "@atlaskit/textfield": "^7.0.0",
-    "@atlaskit/select": "^16.0.0",
-    "@atlaskit/theme": "^12.0.0",
+    "@atlaskit/button": "^19.0.0",
+    "@atlaskit/form": "^10.0.0",
+    "@atlaskit/textfield": "^8.0.0",
+    "@atlaskit/select": "^17.0.0",
+    "@atlaskit/theme": "^13.0.0",
     "@emotion/react": "^11.11.1"
   },
   "devDependencies": {
