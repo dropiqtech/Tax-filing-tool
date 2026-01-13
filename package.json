@@ -1,0 +1,29 @@
+{
+  "name": "tax-filing-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo \"No linter configured\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@atlaskit/button": "^18.0.0",
+    "@atlaskit/form": "^9.0.0",
+    "@atlaskit/textfield": "^7.0.0",
+    "@atlaskit/select": "^16.0.0",
+    "@atlaskit/theme": "^12.0.0",
+    "@emotion/react": "^11.11.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.0.0"
+  }
+}
+
